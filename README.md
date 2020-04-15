@@ -5,6 +5,7 @@ GLUT advanced shapes implementation for the PSPGX library (OpenGL)
 - Sphere
 - Torus
 - Cone
+
 Create an issue if you would like the teapot too
 
 Include directly the C file in your source where you need these shapes and use the classic OpenGL GLUT calls.
