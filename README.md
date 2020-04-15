@@ -5,6 +5,7 @@ GLUT advanced shapes implementation for the PSPGX library (OpenGL)
 - Sphere
 - Torus
 - Cone
+- Disc
 
 Create an issue if you would like the teapot too
 
