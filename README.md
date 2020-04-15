@@ -13,3 +13,5 @@ You may have in some cases to define the PI constant.
 
 ## Disclaimer
 I hate trigonometry. I hate mathematics. Yet I need them to do OpenGL
+
+Imagine this is originally made in 1993
