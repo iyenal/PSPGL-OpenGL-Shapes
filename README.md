@@ -1,5 +1,6 @@
 # PSPGL-OpenGL-Shapes
 GLUT advanced shapes implementation for the PSPGX library (OpenGL)
+Important: This has been added to the original PSP-Ports repo: https://github.com/pspdev/psp-ports/pull/27#event-3236799307
 
 ## Shapes implemened:
 - Sphere
